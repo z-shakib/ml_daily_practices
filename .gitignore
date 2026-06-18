@@ -1,0 +1,25 @@
+# Datasets
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/
