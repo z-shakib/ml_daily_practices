@@ -12,3 +12,8 @@ I am learning ML concepts, preprocessing techniques, model training, and project
 
 In progress.
 I will keep updating this repository with new notebooks and notes as I continue learning.
+
+
+## Dataset
+
+The dataset file is not uploaded because it is larger than GitHub's file size limit.
